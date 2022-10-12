@@ -21,3 +21,7 @@
 > ![Screenshot_2](https://user-images.githubusercontent.com/33374170/195330865-016b54ba-6339-4ec6-b1aa-336e04b2844e.png)
 
 
+## Logs Preview:
+![image](https://user-images.githubusercontent.com/33374170/195331342-c39954ed-abf7-48f1-9416-912b37d87db3.png)
+
+
